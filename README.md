@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @QsingularityAi
-- 👀 I’m interested in Machine learning, Quantum computing, Computational Material Science, Finite Element method.
+- 👋 Hi, I’m ANURAG TRIVEDI
+- 👀 I’m interested in Machine learning, Quantum computing, Computational Material Science, Finite Element method. Life Science.
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on open source project contribution.
 - 📫 How to reach me aanuragtrivedi007@gmail.com
