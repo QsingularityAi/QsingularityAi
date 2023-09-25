@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anurag Trivedi</h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<h1 align="center">Hi 👋, I'm Anurag Trivedi</h1> 
+# Hi there, I'm Anurag <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<img align=top src="https://github.com/a3ela/Blog-web-app/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" alt="drawing" width="90%"/>
+<br>
+
 - <h3 align="left"> Hello! I'm Anurag, a Machine Learning Engineer with a Dewpointx for uncovering the mysteries that data can unveil. </h3>**
 - <h3 align="left"> 📊 🔍 Specialized in Drug Discovery: I harness the power of computational techniques to fast-track the drug discovery process. Marrying the fields of biology and computer science, I dive deep into computational biology, discovering patterns, and unlocking potential drug targets. 🌌 Exploring Computational Biology: By simulating biological systems on powerful computers, I'm paving the way for breakthroughs that can change the face of medicine. My endeavors in this field aim to bridge the gap between biological research and its computational simulation.</h3>**
 - <h3 align="left">🛠 MLOps Enthusiast: Just building models isn't enough. I believe in the power of deploying, monitoring, and scaling them efficiently. Through MLOps, I ensure that machine learning models don't just remain in notebooks but make a real-world impact. </h3>**
