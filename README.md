@@ -124,7 +124,7 @@ print(me.get_bio())
       <td width="50%">
         <h3 align="center">Drug Discovery ML</h3>
         <p align="center">
-          <a href="https://github.com/QsingularityAi/your-repo">
+          <a href="https://github.com/QsingularityAi/PPI_Network_Multi_label_Node_Classfiaction">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=QsingularityAi&repo=Blog-web-app&theme=tokyonight" alt="Project"/>
           </a>
         </p>
