@@ -28,16 +28,68 @@ class MLEngineer:
     def __init__(self):
         self.name = "Anurag Trivedi"
         self.role = "Machine Learning Engineer @ SAXONY.ai"
-        self.location = "Germany 🇩🇪"
-        self.expertise = ["LLMs", "Drug Discovery", "MLOps"]
-        self.current_focus = "End-to-End Gen AI Products"
+        self.location = {
+            "city": "Dresden",
+            "country": "Germany",
+            "address": "Hildebrandstrsse 7, 01219"
+        }
+        self.expertise = {
+            "ml_ai": [
+                "LLMs (LLaMA3, Mistral, OpenAI, Claude.ai)",
+                "RAG Pipeline Development",
+                "Knowledge Graphs",
+                "Computer Vision",
+                "NLP Research",
+                "Drug Discovery"
+            ],
+            "mlops": [
+                "Docker", "Kubernetes",
+                "AWS SageMaker", "GCP",
+                "MLflow", "ClearML"
+            ],
+            "tools": {
+                "frameworks": ["PyTorch", "TensorFlow", "LangChain", "LlamaIndex"],
+                "databases": ["Neo4j", "MongoDB", "AstraDB", "Qdrant", "Milvus"],
+                "languages": ["Python", "SQL", "C++", "R", "JavaScript"]
+            }
+        }
+        
+    def get_achievements(self):
+        return {
+            "performance_improvements": {
+                "operational_costs": "40% reduction",
+                "model_accuracy": "35% improvement",
+                "user_engagement": "40% increase",
+                "query_accuracy": "30% improvement",
+                "hallucination_reduction": "45% decrease"
+            },
+            "key_projects": [
+                "Enterprise-grade conversational AI system",
+                "Dual-LLM validation architecture",
+                "Code-to-code-text RAG pipeline",
+                "Vision Language Model for construction",
+                "Digital twin system for hydrogen fuel cells"
+            ]
+        }
+
     
+
+    def get_certifications(self):
+        return [
+            "Udacity Agile Software Development Scholar",
+            "MIT Micro Master in Machine Learning",
+            "IBM Quantum Machine Learning Summer School",
+            "ETH Zurich Quantum Information For Developers"
+        ]
+
     def get_bio(self):
         return """
-        🧬 Specialized in Drug Discovery using computational techniques
-        🤖 Building state-of-the-art chatbots with LLaMA 2, Llava, and Mistral
-        📊 MLOps enthusiast focusing on deployment and scaling
-        🌌 Exploring Quantum Computing applications in ML
+        🔬 Results-driven Machine Learning Engineer with 3+ years of expertise in AI/ML
+        🧪 Specialized in Drug Discovery using computational techniques
+        🤖 Building enterprise-grade AI systems with LLaMA3, Mistral, Claude.ai
+        📊 Reduced operational costs by 40% through innovative MLOps solutions
+        🎯 Improved model accuracy by 35% using advanced fine-tuning methods
+        🌟 Silicon Saxony Hackathon 2024  - AI-powered Skat game assistant
         """
 
 me = MLEngineer()
