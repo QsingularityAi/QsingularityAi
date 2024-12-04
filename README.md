@@ -42,6 +42,7 @@ class MLEngineer:
 
 me = MLEngineer()
 print(me.get_bio())
+```
 
 <!-- Tech Stack Section with Icons -->
 <h2 align="center">🛠️ Technology Stack</h2>
