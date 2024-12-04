@@ -96,6 +96,8 @@ class MLEngineer:
 me = MLEngineer()
 print(me.get_bio())
 ```
+<!-- Animated Header -->
+<img align=top src="https://github.com/a3ela/Blog-web-app/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" alt="drawing" width="90%"/> <br> - <h3 align="left">
 
 <!-- Tech Stack Section with Icons -->
 <h2 align="center">🛠️ Technology Stack</h2>
