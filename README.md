@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header with Dynamic Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6A44F2&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Trivedi;Machine+Learning+Engineer;Silled+in+AI+%26+MLOps+ LLM;Drug+Discovery+NLP+Enthusiastic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6A44F2&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Trivedi;Machine+Learning+Engineer;Silled+in+AI+%26+MLOps+ LLM+Specialist;Drug+Discovery+NLP+Enthusiastic" alt="Typing SVG" />
 
   <!-- Dynamic Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=LLM%20Engineer&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=white"/>
