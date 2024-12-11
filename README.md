@@ -31,12 +31,11 @@ class MLEngineer:
         self.role = "Machine Learning Engineer @ SAXONY.ai"
         self.location = {
             "city": "Dresden",
-            "country": "Germany",
-            "address": "Hildebrandstrsse 7, 01219"
+            "country": "Germany"    
         }
         self.expertise = {
             "ml_ai": [
-                "LLMs (LLaMA3, Mistral, OpenAI, Claude.ai)",
+                "LLMs (LLaMA3, Mistral, OpenAI, Claude.ai, Google gemini)",
                 "RAG Pipeline Development",
                 "Knowledge Graphs",
                 "Computer Vision",
