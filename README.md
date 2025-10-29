@@ -14,7 +14,7 @@
     <a href="https://twitter.com/anuragtrivedi07">
       <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/anuragtrivedi007/">
+    <a href="https://www.linkedin.com/in//">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
     </a>
     <a href="mailto:aanuragtrivedi007@gmail.com">
